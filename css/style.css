@@ -1,0 +1,32 @@
+.menu {
+    font-size: 1.25em;
+}
+
+#home {
+    background-color: #007bff;
+    color: white;
+}
+
+#branco {
+    color: white;
+}
+
+p {
+    text-align: justify;
+}
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+.corrodape {
+    color: white;
+}
+
+.form-estilo{
+    max-width: 400px;
+    padding: 15px;
+    margin: auto; 
+}
+
